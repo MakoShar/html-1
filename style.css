@@ -1,0 +1,9 @@
+h1{
+    color:rgba(73, 67, 67, 0.712);
+    
+}
+.header{
+    background-color: rgba(39, 37, 41, 0.548);
+    display: flex;
+    justify-content: space-between;
+}
